@@ -11,7 +11,7 @@
 
 ### About Me
 
-I'm pivoting into **Data Engineering** after 10+ years of professional experience across business administration, project management, finance, operations and software development. I am flexible, hardworking and adaptable to evolving business needs with extensive experience collaborating with international customers and businesses. I'm now applying that same rigor to building data pipelines, warehouses and cloud infrastructure with a focus on **AWS Tools and Services**.
+10+ years of professional experience across business administration, project management, finance, operations and software development. I'm flexible, hardworking and adaptable to evolving business needs with extensive experience collaborating with international customers and businesses. I'm now applying that same rigor to building data pipelines, warehouses and cloud infrastructure with a focus on **AWS Tools and Services**.
 
 ---
 
