@@ -37,7 +37,7 @@
 
 #### [Solo Traveler Data Engineering Project](https://github.com/melgp7423/data-engineering-solo-traveler-portfolio-project)
 
-**Stack:** Amazon EventBridge, AWS Step Functions, Amazon API Gateway, AWS Lambda,
+**Stack:** AWS VPC, Amazon EventBridge, AWS Step Functions, Amazon API Gateway, AWS Lambda,
 Amazon S3, Amazon Aurora Serverless, AWS Glue Data Catalog, AWS Glue Data Quality, Amazon
 Athena, Amazon QuickSight, GitHub Actions (CI/CD)
 
