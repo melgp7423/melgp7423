@@ -35,7 +35,7 @@
 
 ### Featured Projects
 
-#### [Solo Traveler Data Engineering Project]([https://github.com/melgp7423/solo-traveler-data-engineering-project](https://github.com/melgp7423/data-engineering-solo-traveler-portfolio-project))
+#### [Solo Traveler Data Engineering Project](https://github.com/melgp7423/data-engineering-solo-traveler-portfolio-project)
 
 **Stack:** Amazon EventBridge, AWS Step Functions, Amazon API Gateway, AWS Lambda,
 Amazon S3, Amazon Aurora Serverless, AWS Glue Data Catalog, AWS Glue Data Quality, Amazon
